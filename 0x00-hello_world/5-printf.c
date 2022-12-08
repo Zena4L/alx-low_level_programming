@@ -1,11 +1,12 @@
-#include <stdio.h>
+
+1;95;0c#include <stdio.h>
 
 /**
-   main - Entry point
-
-   Description - with proper grammar, but the outcome is a piece of art,
-
-   Usage - using printf
+ *   main - Entry point
+ *
+ *  Description - with proper grammar, but the outcome is a piece of art,
+ *
+ *  Usage - using printf
 */
 int main(void)
 {
