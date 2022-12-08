@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 /**
    Main entry point here
    This print to the screen using puts
@@ -8,5 +9,5 @@
 int main(void)
 {
   puts("\"Programming is like building a multilingual puzzle");
-  return 0;
+  return (0);
 }
